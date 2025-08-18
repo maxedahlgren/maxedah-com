@@ -7,5 +7,6 @@ do
   OUT="output/${OUT%.md}.html"
   pandoc --from markdown --to html \
   "$FILE" -o $OUT \
-  --css=src/styles.css --standalone --embed-resources
+  --css=src/styles.css --standalone --embed-resources \
+  --metadata lang=en
 done

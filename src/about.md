@@ -1,5 +1,5 @@
 # About
 
-This is my blog that I've started mostly for myself as a way to share things I've found interesting or others might appreciate.
+This is my website and I get to do what I want with it.
 
 [Home](index.html)

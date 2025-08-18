@@ -5,15 +5,16 @@
 }
 
 body {
-  width: 160mm;
-  margin: 14mm auto;
-  widows: 3;
-  orphans: 3;
+  max-width: 160mm;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: justify;
+  hyphens: auto;
 }
 
 blockquote {
-  margin: 1rem 0;
-  border-left: 5px solid #000000BA;
+  margin: 1rem 5px 1rem 0;
+  border-left: 5px solid #505050;
   padding: 0 2rem;
   font-style: italic;
 }

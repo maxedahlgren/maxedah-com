@@ -2,21 +2,23 @@
 
 Last updated 18 August 2025
 
-## Blogs
+[Art and Letters Daily](https://aldaily.com) - A highlighted article, book and essay 6 days a week
 
-[Pluralistic](https://www.pluralistic.net/) - Daily links from Cory Doctorow
+[A Collection of Unmitigated Pedantry](https://acoup.blog) - A look at history and popular culture
 
-[A Collection of Unmitigated Pedantry](https://www.acoup.blog) - A look at history and popular culture
+[E. W. Dijkstra Archive](https://cs.utexas.edu/~EWD/welcome.html) - The manuscripts of Edsger W. Dijkstra
 
-## Other
+[Hot Rails](https://hotrails.net/) - Regional fast-rail for Australia
 
-[Art and Letters Daily](https://www.aldaily.com) - A highlighted article, book and essay 6 days a week
+[LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Low-tech solutions for modern problems
+
+[Pluralistic](https://pluralistic.net/) - Daily links from Cory Doctorow
 
 ## Me
 
-[Github](https://www.github.com/maxedahlgren)
+[Github](https://github.com/maxedahlgren)
 
-[Goodreads](https://www.goodreads.com/user/show/110714051-max)
+[Goodreads](https://goodreads.com/user/show/110714051-max)
 
 [Letterboxd](https://letterboxd.com/maxeda/)
 
