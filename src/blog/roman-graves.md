@@ -20,6 +20,8 @@ Here are two more that left me speechless, these were written to wives who died 
 
 These inscriptions come from the book [Women and Society in the Roman World by Emily A. Hemelrijk](https://www.cambridge.org/core/books/women-and-society-in-the-roman-world/FF8F8BC865F3E681352B3DC234E382C0) which I really hope to get my hands on in the future.
 
+## recommendations
+
 Here are some more series that I'd really recommend from Dr. Devereaux. It's amazing to hear perspectives about things like this from an actual professor of history instead of some youtuber talks like an authority on the subject after clearly having only read one book. Its also great to get an understanding of how much the pop-culture view of history can differ from how it really was especially when looking at works that appear to be historically grounded on a surface level but completely forget the fact that all of the people making up a society are just as emotional and intelligent as those living today.
 
 [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/) - A deep dive into how bread was made from the planting of a seed to its consumption which gives a great perspective into the work and lifestyle of subsistence farming which shaped the vast majority of agrarian human life before the industrial revolution.
