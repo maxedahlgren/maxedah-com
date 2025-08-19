@@ -1,4 +1,4 @@
-# Roman graves
+# roman graves
 
 18 August 2025
 
@@ -32,4 +32,4 @@ Here are some more series that I'd really recommend from Dr. Devereaux. It's ama
 
 [This. Isn't. Sparta.](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/) - Complete tear-down of the popular idea of Sparta revealing that it was really a slave-state of child-abusers who despised art and did not actually even produce any better warriors than other Greek societies of their time.
 
-[Home](../index.html)
+[home](../index.html)

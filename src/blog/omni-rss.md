@@ -1,4 +1,4 @@
-# Omni RSS
+# omni rss
 
 18 August 2025
 
@@ -8,4 +8,4 @@ RSS is great ([here](https://pluralistic.net/2024/10/16/keep-it-really-simple-st
 
 This project was actually the reason that I now have this website and domain since I needed a place to host the feed. Since I'm currently only paying for static hosting I'm running the script off an old phone and updating the feed every 15 minutes.
 
-[Home](../index.html)
+[home](../index.html)

@@ -1,13 +1,13 @@
 # maxedah.com
 
-## Blog
+## blog
 
-[Roman Graves](blog/roman-graves.html)
+[roman graves](blog/roman-graves.html)
 
-[Omni RSS](blog/omni-rss.html)
+[omni rss](blog/omni-rss.html)
 
-## Other
+## other
 
-[About](about.html)
+[about](about.html)
 
-[Links](links.html)
+[links](links.html)

@@ -1,5 +1,5 @@
-# About
+# about
 
-This is my website and I get to do what I want with it.
+I have a website and I'm still deciding what to do with it.
 
-[Home](index.html)
+[home](index.html)

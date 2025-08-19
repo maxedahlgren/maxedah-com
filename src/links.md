@@ -1,4 +1,4 @@
-# Links
+# links
 
 Last updated 18 August 2025
 
@@ -14,7 +14,7 @@ Last updated 18 August 2025
 
 [Pluralistic](https://pluralistic.net/) - Daily links from Cory Doctorow
 
-## Me
+## me
 
 [Github](https://github.com/maxedahlgren)
 
@@ -22,4 +22,6 @@ Last updated 18 August 2025
 
 [Letterboxd](https://letterboxd.com/maxeda/)
 
-[Home](index.html)
+---
+
+[home](index.html)
