@@ -11,3 +11,5 @@
 [about](about.html)
 
 [links](links.html)
+
+[rss](feed.xml)

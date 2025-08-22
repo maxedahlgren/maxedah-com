@@ -12,7 +12,7 @@ Most people are aware that pre-modern societies dealt much higher rates of child
 
 > To the spirits of the departed. For Euposia, who lived for one year, eleven months and seventeen days, and for Zosime, who lived for eight months. Their mother Zoe made [this tomb] for her sweetest children.
 
-Here are two more that left me speechless, these were written to wives who died during childbirth. (Something like 10% of women would be expected to die during childbirth if not by other causes.)
+Here are two more that really left me speechless, these were both written to wives who died during childbirth.
 
 > To the departed spirits and eternal memory of Blandinia Martiola, the most blameless girl who lived eighteen years, nine months and five days. Pompeius Catussa, citizen of the Sequani, a plasterer, set this up for his incomparable wife, who was most kind to him. She lived with me for five years, six months and eighteen days without any foul reproach. He had this made during his lifetime for himself and for his wife and dedicated it under the axe. You who read this, go bathe in the baths of Apollo, as I did with my wife. I wish I still could.
 
