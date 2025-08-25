@@ -2,6 +2,8 @@
 
 ## blog
 
+[linkdump 1](blog/linkdump-1.html)
+
 [roman graves](blog/roman-graves.html)
 
 [omni rss](blog/omni-rss.html)

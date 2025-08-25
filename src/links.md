@@ -12,6 +12,8 @@ Last updated 18 August 2025
 
 [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Low-tech solutions for modern problems
 
+[Overland Literary Journal](https://overland.org.au/) - Australia's oldest radical literary magazine
+
 [Pluralistic](https://pluralistic.net/) - Daily links from Cory Doctorow
 
 ## me

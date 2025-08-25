@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>maxedah.com</title>
-    <link href="https://maxedah.com"/>
-    <updated>2025-08-21T13:47:33Z</updated>
-    <id>https://maxedah.com</id>
-    <author>
-      <name>maxedah.com</name>
-    </author>
-    <entry>
-      <title>roman graves</title>
-      <link href="https://maxedah.com/blog/roman-graves.html"/>
-      <id>https://maxedah.com/blog/roman-graves.html</id>
-      <updated>2025-08-18T11:00:00Z</updated>
-    </entry>
-    <entry>
-      <title>omni rss</title>
-      <link href="https://maxedah.com/blog/omni-rss.html"/>
-      <id>https://maxedah.com/blog/omni-rss.html</id>
-      <updated>2025-08-18T10:00:00Z</updated>
-    </entry>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>maxedah.com</title>
+  <link href="https://maxedah.com" />
+  <updated>2025-08-21T13:47:33Z</updated>
+  <id>https://maxedah.com</id>
+  <author>
+    <name>maxedah.com</name>
+  </author>
+  <entry>
+    <title>linkdump 1</title>
+    <link href="https://maxedah.com/blog/linkdump-1.html" />
+    <id>https://maxedah.com/blog/linkdump-1.html</id>
+    <updated>2025-08-25T17:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>roman graves</title>
+    <link href="https://maxedah.com/blog/roman-graves.html" />
+    <id>https://maxedah.com/blog/roman-graves.html</id>
+    <updated>2025-08-18T13:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>omni rss</title>
+    <link href="https://maxedah.com/blog/omni-rss.html" />
+    <id>https://maxedah.com/blog/omni-rss.html</id>
+    <updated>2025-08-18T12:00:00+02:00</updated>
+  </entry>
 
-  </feed>
+</feed>
