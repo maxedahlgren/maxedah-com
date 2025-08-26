@@ -1,0 +1,7 @@
+from: markdown
+to: html
+standalone: true
+embed-resources: true
+css: 'src/styles.css'
+metadata:
+  lang: en

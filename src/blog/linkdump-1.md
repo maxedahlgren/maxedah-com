@@ -2,9 +2,9 @@
 
 25 August 2025
 
-Im going to start leaving links, quotes and other things I found interesting here, initially planning on a weekly basis but it will of course depend on how often I end up with enough to warrant sharing.
+I'm going to start leaving links, quotes and other things I found interesting here, initially planning on a weekly basis but it will of course depend on how often I end up with enough to warrant sharing.
 
-[Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/) - An excellent run down of history of Google's attacks against the open web including the previous and new attempts to remove XSLT from the web standard. XSLT is a really powerful language and the fact that it and XML have been hobbled by Google since 2013 is a major shame. This post also lead to me rebuilding [my Omni RSS script](omni-rss.html) in XSLT.
+[Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/) - An excellent run down of history of Google's attacks against the open web including the previous and new attempts to remove XSLT from the web standard. XSLT is a really powerful tool and the fact that it and XML have been hobbled by Google since 2013 is a major shame. This post also lead to me rebuilding [my Omni RSS script](omni-rss.html) in XSLT.
 
 [Candle Flame Oscillations as a Clock](https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/) - Interesting hack using the unexpected regularity of a candles flicker as a clock.
 

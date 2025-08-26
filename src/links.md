@@ -16,6 +16,8 @@ Last updated 18 August 2025
 
 [Pluralistic](https://pluralistic.net/) - Daily links from Cory Doctorow
 
+[404 Media](404media.co) - Investigative tech journalism
+
 ## me
 
 [Github](https://github.com/maxedahlgren)
