@@ -16,7 +16,7 @@ Last updated 18 August 2025
 
 [Pluralistic](https://pluralistic.net/) - Daily links from Cory Doctorow
 
-[404 Media](404media.co) - Investigative tech journalism
+[404 Media](https://404media.co) - Investigative tech journalism
 
 [Erik Burk](https://erikburk.neocities.org/) - Really cool guy
 
