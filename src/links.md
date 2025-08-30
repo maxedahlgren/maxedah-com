@@ -18,6 +18,8 @@ Last updated 18 August 2025
 
 [404 Media](404media.co) - Investigative tech journalism
 
+[Erik Burk](https://erikburk.neocities.org/) - Really cool guy
+
 ## me
 
 [Github](https://github.com/maxedahlgren)

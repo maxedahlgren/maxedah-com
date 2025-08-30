@@ -13,7 +13,7 @@ $(OUT_DIR)/%.html: $(SRC_DIR)/%.md
 	pandoc -d defaults.yaml -o $@ $<
 
 push: $(HTML_FILES)
-	echo scp -r $(HTML_FILES) feed.xml maxeda@maxedah.com:/public_html
+	scp -r output/** feed.xml maxeda@maxedah.com:/public_html
 
 clean:
 	rm -rf $(OUT_DIR)
