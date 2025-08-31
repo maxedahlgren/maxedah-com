@@ -3,8 +3,9 @@ OUT_DIR := output
 
 MD_FILES := $(shell find $(SRC_DIR) -name '*.md')
 HTML_FILES := $(MD_FILES:$(SRC_DIR)/%.md=$(OUT_DIR)/%.html)
+PUSH_FILES := $(MD_FILES:$(SRC_DIR)/%.md=$(OUT_DIR)/%.push)
 
-.PHONY: all clean
+.PHONY: all clean push
 
 all: $(HTML_FILES)
 
@@ -12,8 +13,16 @@ $(OUT_DIR)/%.html: $(SRC_DIR)/%.md
 	@mkdir -p $(@D)
 	pandoc -d defaults.yaml -o $@ $<
 
-push: $(HTML_FILES)
-	scp -r output/** feed.xml maxeda@maxedah.com:/public_html
+push: $(PUSH_FILES) $(OUT_DIR)/feed.push
+
+$(OUT_DIR)/%.push: $(SRC_DIR)/%.md
+	scp $< maxeda@maxedah.com:/public_html
+	@touch $@
+
+$(OUT_DIR)/feed.push: feed.xml
+	scp $< maxeda@maxedah.com:/public_html
+	@touch $@
 
 clean:
 	rm -rf $(OUT_DIR)
+
