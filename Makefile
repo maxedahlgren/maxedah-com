@@ -9,14 +9,14 @@ PUSH_FILES := $(MD_FILES:$(SRC_DIR)/%.md=$(OUT_DIR)/%.push)
 
 all: $(HTML_FILES)
 
-$(OUT_DIR)/%.html: $(SRC_DIR)/%.md
+$(OUT_DIR)/%.html: $(SRC_DIR)/%.md src/styles.css
 	@mkdir -p $(@D)
 	pandoc -d defaults.yaml -o $@ $<
 
 push: $(PUSH_FILES) $(OUT_DIR)/feed.push
 
-$(OUT_DIR)/%.push: $(SRC_DIR)/%.md
-	scp $< maxeda@maxedah.com:/public_html
+$(OUT_DIR)/%.push: $(OUT_DIR)/%.html
+	scp $< maxeda@maxedah.com:/public_html/$(<:output/%=%)
 	@touch $@
 
 $(OUT_DIR)/feed.push: feed.xml
@@ -25,4 +25,3 @@ $(OUT_DIR)/feed.push: feed.xml
 
 clean:
 	rm -rf $(OUT_DIR)
-

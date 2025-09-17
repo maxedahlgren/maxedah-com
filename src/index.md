@@ -2,6 +2,8 @@
 
 ## blog
 
+[linkdump 2](blog/linkdump-2.html)
+
 [linkdump 1](blog/linkdump-1.html)
 
 [roman graves](blog/roman-graves.html)
