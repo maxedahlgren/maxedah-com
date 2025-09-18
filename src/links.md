@@ -4,6 +4,8 @@ Last updated 18 August 2025
 
 [Art and Letters Daily](https://aldaily.com) - A highlighted article, book and essay 6 days a week
 
+[Bear Discovery Feed](https://bearblog.dev/discover/) - Discovery feed for the Bear blogging platform.
+
 [A Collection of Unmitigated Pedantry](https://acoup.blog) - A look at history and popular culture
 
 [Dead Language Society](https://www.deadlanguagesociety.com/) - A tour through the history of the English language and its relatives
