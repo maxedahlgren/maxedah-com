@@ -8,6 +8,42 @@
     <name>maxedah.com</name>
   </author>
   <entry>
+    <title>20/11/2025</title>
+    <link href="https://maxedah.com/#20/11/2025" />
+    <id>https://maxedah.com/#20/11/2025</id>
+    <updated>2025-11-20T12:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>19/11/2025</title>
+    <link href="https://maxedah.com/#19/11/2025" />
+    <id>https://maxedah.com/#19/11/2025</id>
+    <updated>2025-11-19T12:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>07/11/2025</title>
+    <link href="https://maxedah.com/#07/11/2025" />
+    <id>https://maxedah.com/#07/11/2025</id>
+    <updated>2025-11-07T12:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>30/10/2025</title>
+    <link href="https://maxedah.com/#30/10/2025" />
+    <id>https://maxedah.com/#30/10/2025</id>
+    <updated>2025-10-30T12:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>28/10/2025</title>
+    <link href="https://maxedah.com/#28/10/2025" />
+    <id>https://maxedah.com/#28/10/2025</id>
+    <updated>2025-10-28T12:00:00+02:00</updated>
+  </entry>
+  <entry>
+    <title>19/09/2025</title>
+    <link href="https://maxedah.com/#19/09/2025" />
+    <id>https://maxedah.com/#19/09/2025</id>
+    <updated>2025-09-19T12:00:00+02:00</updated>
+  </entry>
+  <entry>
     <title>linkdump 2</title>
     <link href="https://maxedah.com/blog/linkdump-2.html" />
     <id>https://maxedah.com/blog/linkdump-2.html</id>
@@ -20,16 +56,15 @@
     <updated>2025-08-25T17:00:00+02:00</updated>
   </entry>
   <entry>
-    <title>roman graves</title>
-    <link href="https://maxedah.com/blog/roman-graves.html" />
-    <id>https://maxedah.com/blog/roman-graves.html</id>
-    <updated>2025-08-18T13:00:00+02:00</updated>
-  </entry>
-  <entry>
     <title>omni rss</title>
     <link href="https://maxedah.com/blog/omni-rss.html" />
     <id>https://maxedah.com/blog/omni-rss.html</id>
     <updated>2025-08-18T12:00:00+02:00</updated>
   </entry>
-
+  <entry>
+    <title>roman graves</title>
+    <link href="https://maxedah.com/blog/roman-graves.html" />
+    <id>https://maxedah.com/blog/roman-graves.html</id>
+    <updated>2025-08-17T13:00:00+02:00</updated>
+  </entry>
 </feed>

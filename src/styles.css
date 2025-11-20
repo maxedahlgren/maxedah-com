@@ -2,12 +2,30 @@
   font-family: sans-serif;
   font-size: 18px;
   line-height: 1.5rem;
+  --primary: #886da3;
+  --primary-text: #6d36a3;
 }
 
 h1,
-h2 {
+h2,
+h3 {
   text-transform: lowercase;
 }
+
+a:visited {
+  color: var(--primary-text)
+}
+
+h3>a,
+h3>a:visited {
+  color: black
+}
+
+h3>a:hover {
+  /* opacity: 50%; */
+  color: var(--primary-text)
+}
+
 
 body {
   max-width: 160mm;
@@ -20,4 +38,9 @@ blockquote {
   border-left: 5px solid #505050;
   padding: 0 2rem;
   font-style: italic;
+}
+
+h-space {
+  display: inline-block;
+  width: 1rem;
 }

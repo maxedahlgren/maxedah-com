@@ -1,4 +1,4 @@
-# omni rss
+# maxedah.com - omni rss
 
 18 August 2025
 
