@@ -16,13 +16,19 @@ a:visited {
   color: var(--primary-text)
 }
 
-h3>a,
-h3>a:visited {
-  color: black
+h1>a,
+h1>a:visited {
+  color: black;
+  text-decoration: none;
 }
 
+h3>a,
+h3>a:visited {
+  color: black;
+}
+
+h1>a:hover,
 h3>a:hover {
-  /* opacity: 50%; */
   color: var(--primary-text)
 }
 

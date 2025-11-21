@@ -1,4 +1,4 @@
-<h1 id="top">maxedah.com</h1>
+<h1 id="top"><a href="index.html">maxedah.com</a></h1>
 
 | [about](about.html) <h-space/> [links](links.html) <h-space/> [rss](feed.xml)
 
@@ -48,7 +48,7 @@ Also highly recommend all the other stuff by Fortnine, it's a motorcycle channel
 
 ### <a href="#18/08/2025" id="18/08/2025">18/08/2025</a>
 
-[omni rss](blog/omni-rss.md)
+[omni rss](blog/omni-rss.html)
 
 ### <a href="#17/08/2025" id="17/08/2025">17/08/2025</a>
 

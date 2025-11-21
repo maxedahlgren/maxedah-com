@@ -1,4 +1,4 @@
-# maxedah.com - links
+# [maxedah.com](index.html) - links
 
 Last updated 18 August 2025
 
