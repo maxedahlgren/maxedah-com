@@ -1,7 +1,5 @@
 # [maxedah.com](index.html) - links
 
-Last updated 18 August 2025
-
 [Art and Letters Daily](https://aldaily.com) - A highlighted article, book and essay 6 days a week
 
 [Bear Discovery Feed](https://bearblog.dev/discover/) - Discovery feed for the Bear blogging platform.

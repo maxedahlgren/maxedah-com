@@ -2,11 +2,11 @@
 
 | [about](about.html) <h-space/> [links](links.html) <h-space/> [rss](feed.xml)
 
-## current mood
+### current mood: the actual physical weight of it all is so much
 
-yum yum i love caffeine
+### <a href="#30/11/2025" id="30/11/2025">30/11/2025</a>
 
-## feed
+[Boing](https://boing.greg.technology/)
 
 ### <a href="#20/11/2025" id="20/11/2025">20/11/2025</a>
 
@@ -53,5 +53,7 @@ Also highly recommend all the other stuff by Fortnine, it's a motorcycle channel
 ### <a href="#17/08/2025" id="17/08/2025">17/08/2025</a>
 
 [roman graves](blog/roman-graves.html)
+
+---
 
 [back to top](#top)
