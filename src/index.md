@@ -8,6 +8,10 @@
 
 [Boing](https://boing.greg.technology/)
 
+### <a href="#22/11/2025" id="22/11/2025">22/11/2025</a>
+
+[Bruce Sterling - Some Public Limits of Everyday Weirdness](https://bruces.medium.com/some-public-limits-of-everyday-weirdness-2025-754551c54a2d)
+
 ### <a href="#20/11/2025" id="20/11/2025">20/11/2025</a>
 
 I'm changing things around a bit. The site's got a bit more like a feed format and I'm thinking that this way I can post stuff with more varied length and have a lower barrier to entry if I want to write something that's just a couple of lines long instead of feeling like I need to fully finish something before putting it out.
