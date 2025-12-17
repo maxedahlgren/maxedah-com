@@ -20,7 +20,7 @@ $(OUT_DIR)/%.push: $(OUT_DIR)/%.html
 	@touch $@
 
 $(OUT_DIR)/feed.push: feed.xml
-	scp $< maxeda@maxedah.com:/public_html
+	scp $< maxeda@maxedah.com:/public_html/feed.xml
 	@touch $@
 
 clean:
