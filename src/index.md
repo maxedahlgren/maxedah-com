@@ -2,11 +2,17 @@
 
 | [about](about.html) <h-space/> [links](links.html) <h-space/> [rss](feed.xml)
 
-### current mood: could really go for a full nights sleep rn
+### current mood: sydney is a pretty fucking nice place actually
 
 <!-- ### <a href="#00/00/2025" id="00/00/2025">00/00/2025</a>
 
 [Template](Template) -->
+
+### <a href="#24/12/2025" id="24/12/2025">24/12/2025</a>
+
+[(Youtube) This Flock Camera Leak is like Netflix For Stalkers](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+
+Best and clearest rundown of how dystopian tech surveillance is getting, I would seriously tell anyone and everyone to watch this.
 
 ### <a href="#11/12/2025" id="11/12/2025">11/12/2025</a>
 
