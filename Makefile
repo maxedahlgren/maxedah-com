@@ -9,7 +9,7 @@ PUSH_FILES := $(MD_FILES:$(SRC_DIR)/%.md=$(OUT_DIR)/%.push)
 
 all: $(HTML_FILES)
 
-$(OUT_DIR)/%.html: $(SRC_DIR)/%.md src/styles.css
+$(OUT_DIR)/%.html: $(SRC_DIR)/%.md src/styles.css  defaults.yaml pandoc-template.html
 	@mkdir -p $(@D)
 	pandoc -d defaults.yaml -o $@ $<
 

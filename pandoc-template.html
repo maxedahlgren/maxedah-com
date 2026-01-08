@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+    <title>$pagetitle$</title>
+    <link rel="stylesheet" href="$css$" />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="maxedah feed"
+      href="https://www.maxedah.com/feed.xml"
+    />
+  </head>
+  <body>
+    $if(title)$
+    <header id="title-block-header">
+      <h1 class="title">$title$</h1>
+    </header>
+    $endif$ $body$
+  </body>
+</html>
