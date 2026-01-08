@@ -1,6 +1,6 @@
 <h1 id="top"><a href="index.html">maxedah.com</a></h1>
 
-| [about](about.html) <h-space/> [links](links.html)
+[about](about.html) <h-space></h-space> [links](links.html)
 
 ### current mood: sydney is a pretty fucking nice place actually
 

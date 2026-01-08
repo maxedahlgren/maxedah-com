@@ -11,16 +11,20 @@ all: $(HTML_FILES)
 
 $(OUT_DIR)/%.html: $(SRC_DIR)/%.md src/styles.css  defaults.yaml pandoc-template.html
 	@mkdir -p $(@D)
-	pandoc -d defaults.yaml -o $@ $<
+	pandoc --from markdown --to html --template pandoc-template.html -o $@ $<
 
-push: $(PUSH_FILES) $(OUT_DIR)/feed.push
+push: $(PUSH_FILES) $(OUT_DIR)/feed.push $(OUT_DIR)/styles.push
 
 $(OUT_DIR)/%.push: $(OUT_DIR)/%.html
 	scp $< maxeda@maxedah.com:/public_html/$(<:output/%=%)
 	@touch $@
 
-$(OUT_DIR)/feed.push: feed.xml
+$(OUT_DIR)/feed.push: src/feed.xml
 	scp $< maxeda@maxedah.com:/public_html/feed.xml
+	@touch $@
+
+$(OUT_DIR)/styles.push: src/styles.css
+	scp $< maxeda@maxedah.com:/public_html/styles.css
 	@touch $@
 
 clean:
