@@ -1,4 +1,4 @@
-# [maxedah.com](../index.html) - omni rss
+# [maxeda.se](../index.html) - omni rss
 
 18 August 2025
 

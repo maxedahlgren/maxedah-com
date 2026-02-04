@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>maxedah.com</title>
-  <link href="https://maxedah.com" />
+  <title>maxeda.se</title>
+  <link href="https://maxeda.se" />
   <updated>2025-12-11T12:00:00Z</updated>
-  <id>https://maxedah.com</id>
+  <id>https://maxeda.se</id>
   <author>
-    <name>maxedah.com</name>
+    <name>maxeda.se</name>
   </author>
 
   <!--
   <entry>
     <title>00/00/2025</title>
-    <link href="https://maxedah.com/#00/00/2025" />
-    <id>https://maxedah.com/#00/00/2025</id>
+    <link href="https://maxeda.se/#00/00/2025" />
+    <id>https://maxeda.se/#00/00/2025</id>
     <updated>2025-00-00T12:00:00+02:00</updated>
   </entry>
   -->
 
   <entry>
     <title>24/12/2025</title>
-    <link href="https://maxedah.com/#24/12/2025" />
-    <id>https://maxedah.com/#24/12/2025</id>
+    <link href="https://maxeda.se/#24/12/2025" />
+    <id>https://maxeda.se/#24/12/2025</id>
     <updated>2025-12-24T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>11/12/2025</title>
-    <link href="https://maxedah.com/#11/12/2025" />
-    <id>https://maxedah.com/#11/12/2025</id>
+    <link href="https://maxeda.se/#11/12/2025" />
+    <id>https://maxeda.se/#11/12/2025</id>
     <updated>2025-12-11T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>10/12/2025</title>
-    <link href="https://maxedah.com/#10/12/2025" />
-    <id>https://maxedah.com/#10/12/2025</id>
+    <link href="https://maxeda.se/#10/12/2025" />
+    <id>https://maxeda.se/#10/12/2025</id>
     <updated>2025-12-10T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>09/12/2025</title>
-    <link href="https://maxedah.com/#09/12/2025" />
-    <id>https://maxedah.com/#09/12/2025</id>
+    <link href="https://maxeda.se/#09/12/2025" />
+    <id>https://maxeda.se/#09/12/2025</id>
     <updated>2025-12-09T12:00:00+02:00</updated>
   </entry>
 
   <entry>
     <title>30/11/2025</title>
-    <link href="https://maxedah.com/#30/11/2025" />
-    <id>https://maxedah.com/#30/11/2025</id>
+    <link href="https://maxeda.se/#30/11/2025" />
+    <id>https://maxeda.se/#30/11/2025</id>
     <updated>2025-11-30T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>22/11/2025</title>
-    <link href="https://maxedah.com/#22/11/2025" />
-    <id>https://maxedah.com/#22/11/2025</id>
+    <link href="https://maxeda.se/#22/11/2025" />
+    <id>https://maxeda.se/#22/11/2025</id>
     <updated>2025-11-22T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>20/11/2025</title>
-    <link href="https://maxedah.com/#20/11/2025" />
-    <id>https://maxedah.com/#20/11/2025</id>
+    <link href="https://maxeda.se/#20/11/2025" />
+    <id>https://maxeda.se/#20/11/2025</id>
     <updated>2025-11-20T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>19/11/2025</title>
-    <link href="https://maxedah.com/#19/11/2025" />
-    <id>https://maxedah.com/#19/11/2025</id>
+    <link href="https://maxeda.se/#19/11/2025" />
+    <id>https://maxeda.se/#19/11/2025</id>
     <updated>2025-11-19T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>07/11/2025</title>
-    <link href="https://maxedah.com/#07/11/2025" />
-    <id>https://maxedah.com/#07/11/2025</id>
+    <link href="https://maxeda.se/#07/11/2025" />
+    <id>https://maxeda.se/#07/11/2025</id>
     <updated>2025-11-07T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>30/10/2025</title>
-    <link href="https://maxedah.com/#30/10/2025" />
-    <id>https://maxedah.com/#30/10/2025</id>
+    <link href="https://maxeda.se/#30/10/2025" />
+    <id>https://maxeda.se/#30/10/2025</id>
     <updated>2025-10-30T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>28/10/2025</title>
-    <link href="https://maxedah.com/#28/10/2025" />
-    <id>https://maxedah.com/#28/10/2025</id>
+    <link href="https://maxeda.se/#28/10/2025" />
+    <id>https://maxeda.se/#28/10/2025</id>
     <updated>2025-10-28T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>19/09/2025</title>
-    <link href="https://maxedah.com/#19/09/2025" />
-    <id>https://maxedah.com/#19/09/2025</id>
+    <link href="https://maxeda.se/#19/09/2025" />
+    <id>https://maxeda.se/#19/09/2025</id>
     <updated>2025-09-19T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>linkdump 2</title>
-    <link href="https://maxedah.com/blog/linkdump-2.html" />
-    <id>https://maxedah.com/blog/linkdump-2.html</id>
+    <link href="https://maxeda.se/blog/linkdump-2.html" />
+    <id>https://maxeda.se/blog/linkdump-2.html</id>
     <updated>2025-09-17T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>linkdump 1</title>
-    <link href="https://maxedah.com/blog/linkdump-1.html" />
-    <id>https://maxedah.com/blog/linkdump-1.html</id>
+    <link href="https://maxeda.se/blog/linkdump-1.html" />
+    <id>https://maxeda.se/blog/linkdump-1.html</id>
     <updated>2025-08-25T17:00:00+02:00</updated>
   </entry>
   <entry>
     <title>omni rss</title>
-    <link href="https://maxedah.com/blog/omni-rss.html" />
-    <id>https://maxedah.com/blog/omni-rss.html</id>
+    <link href="https://maxeda.se/blog/omni-rss.html" />
+    <id>https://maxeda.se/blog/omni-rss.html</id>
     <updated>2025-08-18T12:00:00+02:00</updated>
   </entry>
   <entry>
     <title>roman graves</title>
-    <link href="https://maxedah.com/blog/roman-graves.html" />
-    <id>https://maxedah.com/blog/roman-graves.html</id>
+    <link href="https://maxeda.se/blog/roman-graves.html" />
+    <id>https://maxeda.se/blog/roman-graves.html</id>
     <updated>2025-08-17T13:00:00+02:00</updated>
   </entry>
 </feed>

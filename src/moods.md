@@ -1,4 +1,4 @@
-# [maxedah.com](index.html) - moods
+# [maxeda.se](index.html) - moods
 
 24/12/2025 - sydney is a pretty fucking nice place actually
 

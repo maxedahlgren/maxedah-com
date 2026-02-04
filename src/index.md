@@ -1,4 +1,4 @@
-<h1 id="top"><a href="index.html">maxedah.com</a></h1>
+<h1 id="top"><a href="index.html">maxeda.se</a></h1>
 
 [about](about.html) <h-space></h-space> [links](links.html)
 

@@ -1,4 +1,4 @@
-# [maxedah.com](index.html) - links
+# [maxeda.se](index.html) - links
 
 [Art and Letters Daily](https://aldaily.com) - A highlighted article, book and essay 6 days a week
 

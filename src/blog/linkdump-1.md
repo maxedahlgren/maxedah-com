@@ -1,4 +1,4 @@
-# [maxedah.com](../index.html) - linkdump 1
+# [maxeda.se](../index.html) - linkdump 1
 
 25 August 2025
 

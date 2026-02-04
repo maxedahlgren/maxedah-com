@@ -1,6 +1,6 @@
-# maxedah.com
+# maxeda.se
 
-The source for my personal website [maxedah.com](maxedah.com). Currently managed as markdown files pandoc'd to html.
+The source for my personal website [maxeda.se](maxeda.se). Currently managed as markdown files pandoc'd to html.
 
 ## Build instructions
 
