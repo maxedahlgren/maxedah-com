@@ -1,5 +1,5 @@
-SRC_DIR := /src
-OUT_DIR := /build
+SRC_DIR := src
+OUT_DIR := build
 
 MD_FILES := $(shell find $(SRC_DIR) -name '*.md')
 HTML_FILES := $(MD_FILES:$(SRC_DIR)/%.md=$(OUT_DIR)/%.html)
